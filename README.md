@@ -56,6 +56,7 @@ Link del video:
 https://drive.google.com/file/d/1nCXuEkTns6PATZljMBQrTRR1acgQAToj/view?usp=sharing
 
 
+
 ---
 
 ## Autor
@@ -65,3 +66,5 @@ Andrés Felipe Franco Mesa
 Estructura de Datos - EA3
 
 IU Digital de Antioquia
+
+04-06-2026
