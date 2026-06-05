@@ -13,7 +13,7 @@ public class Main {
 
         do {
 
-            System.out.println("\n=== TREE STOCK ===");
+            System.out.println("      TREE STOCK");
             System.out.println("1. Registrar producto");
             System.out.println("2. Mostrar inventario");
             System.out.println("3. Buscar producto");
